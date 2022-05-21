@@ -17,7 +17,7 @@ public enum Classmembers {
 	RAKAN("Rakan"),
 	VALORIE("Valorie"),
 	JOSHUA("Joshua"),
-	TIMOTHY("Timothy"),
+	ALEX("Alex"),
 	YOU("You"),
 	DILLON("Dillon"),
 	TYLER("Tyler"),
